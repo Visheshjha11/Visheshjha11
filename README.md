@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me visheshjha456@gmail.com
 - 😄 Pronouns: i am male 
-- ⚡ Fun fact: i am introvert
+- ⚡ Fun fact: Humans are made up of star dust
 
 <!---
 Visheshjha11/Visheshjha11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

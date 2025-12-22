@@ -1,14 +1,15 @@
 # 💫 About Me:
-**Welcome** to My GitHub Profile👋<br>I'm **Vishesh Jha**, a **Full Stack Developer** and a student of B.E. Computer Science at Chitkara University. With a keen interest in learning and innovation, I enjoy solving complex problems and exploring new technologies on my own.<br><br>**About My Journey**<br>Education: Currently pursuing B.E. in Computer Science at Chitkara University.<br><br>Technical Skills: Proficient in HTML, CSS, JavaScript, Python, C and many more.<br><br>**What I'm Learning**<br>New Technologies: Always on the lookout for emerging trends in web development.<br><br>Problem-Solving: Enjoy tackling challenges through coding and design thinking.<br><br>Connect with Me<br>Email: visheshjha456@gmail.com
-
+**Welcome** to My GitHub Profile👋<br>I'm **Vishesh Jha**, a **Full Stack Developer** and a student of B.E. Computer Science at Chitkara University. With a keen interest in learning and innovation, I enjoy solving complex problems and exploring new technologies on my own.<br><br>**About My Journey**<br>Education: Currently pursuing B.E. in Computer Science at Chitkara University.<br><br>Technical Skills: Proficient in HTML, CSS, JavaScript, Python, C and many more.<br><br>**What I'm Learning**<br>New Technologies: Always on the lookout for emerging trends in web development.<br><br>Problem-Solving: Enjoy tackling challenges through coding and design thinking.<br>
+### 🌐 Connect with Me  
+🔗 **[visheshjha.vercel.app](https://visheshjha.vercel.app)**
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:visheshjha456@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/vishesh-jha-dev/)
+[![email](https://skillicons.dev/icons?i=gmail)](mailto:visheshjha456@gmail.com) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://https://www.linkedin.com/in/vishesh-jha-dev/)
 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![JAVA](https://skillicons.dev/icons?i=java)  ![Python](https://skillicons.dev/icons?i=py) ![HTML5](https://skillicons.dev/icons?i=html) ![JavaScript](https://skillicons.dev/icons?i=js)   ![CSS3](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react) ![NodeJs](https://skillicons.dev/icons?i=nodejs) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Linux](https://skillicons.dev/icons?i=linux) 
 
 ![](https://github-profile-trophy.vercel.app/?username=visheshjha11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 

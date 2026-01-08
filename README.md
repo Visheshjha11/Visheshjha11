@@ -4,7 +4,7 @@
 🔗 **[visheshjha.vercel.app](https://visheshjha.vercel.app)**
 
 ## 🌐 Socials:
-[![email](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=visheshjha456@gmail.com&su=GitHub%20Contact&body=Hello%20Vishesh,)
+[![email](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=visheshjha456@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/visheshjha11/)
 
 

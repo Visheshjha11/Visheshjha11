@@ -5,7 +5,7 @@
 
 ## 🌐 Socials:
 [![email](https://skillicons.dev/icons?i=gmail)](mailto:visheshjha456@gmail.com) 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://https://www.linkedin.com/in/visheshjha11/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/visheshjha11/)
 
 
 # 💻 Tech Stack:

@@ -8,8 +8,19 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/visheshjha11/)
 
 
-# 💻 Tech Stack:
-![JAVA](https://skillicons.dev/icons?i=java)  ![Python](https://skillicons.dev/icons?i=py) ![HTML5](https://skillicons.dev/icons?i=html) ![JavaScript](https://skillicons.dev/icons?i=js)   ![CSS3](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react) ![NodeJs](https://skillicons.dev/icons?i=nodejs) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Linux](https://skillicons.dev/icons?i=linux) 
+## ⚡ Tech Stack
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java" title="Java"/> <img src="https://skillicons.dev/icons?i=py" title="Python"/> <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/> <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/> <img src="https://skillicons.dev/icons?i=c" title="C"/> <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
+
+### 🌐 Full-Stack Development
+<img src="https://skillicons.dev/icons?i=html" title="HTML5"/> <img src="https://skillicons.dev/icons?i=css" title="CSS3"/> <img src="https://skillicons.dev/icons?i=react" title="React"/> <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/> <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS"/> <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/> <img src="https://skillicons.dev/icons?i=django" title="Django"/> <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL"/> <img src="https://skillicons.dev/icons?i=vite" title="Vite"/>
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/> <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+
+### 🛠 Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git" title="Git"/> <img src="https://skillicons.dev/icons?i=github" title="GitHub"/> <img src="https://skillicons.dev/icons?i=linux" title="Linux"/> <img src="https://skillicons.dev/icons?i=bash" title="Bash"/>
 
 ![](https://github-profile-trophy.vercel.app/?username=visheshjha11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 

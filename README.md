@@ -1,7 +1,14 @@
 # 💫 About Me:
-**Welcome** to My GitHub Profile👋<br>I'm **Vishesh Jha**, a **Full Stack Developer** and a student of B.E. Computer Science at Chitkara University. With a keen interest in learning and innovation, I enjoy solving complex problems and exploring new technologies on my own.<br><br>**About My Journey**<br>Education: Currently pursuing B.E. in Computer Science at Chitkara University.<br><br>Technical Skills: Proficient in HTML, CSS, JavaScript, Python, C and many more.<br><br>**What I'm Learning**<br>New Technologies: Always on the lookout for emerging trends in web development.<br><br>Problem-Solving: Enjoy tackling challenges through coding and design thinking.<br>
-### 🌐 Connect with Me  
-🔗 **[visheshjha.me](https://visheshjha.me/)**
+I’m **Vishesh Jha**, a Full-Stack Developer focused on building **scalable systems and AI-driven applications**.
+
+Currently pursuing B.E. in Computer Science at Chitkara University, I work on real-world products with an emphasis on **clean architecture, performance, and usability**. My work involves building systems that integrate **LLMs, automation, and intelligent workflows** to create more adaptive and efficient applications.
+
+### What I Do
+- Design and build **full-stack applications** end-to-end  
+- Apply **system design principles** to build scalable and maintainable software  
+- Develop **AI-powered features** using LLMs and agent-based architectures 
+
+**Portfolio:** [visheshjha.me](https://visheshjha.me/)  
 
 ## 🌐 Socials:
 [![email](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=visheshjha456@gmail.com)

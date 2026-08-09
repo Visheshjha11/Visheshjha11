@@ -1,3 +1,7 @@
+<!-- <p align="center">
+  <img src="./assets/" alt="Banner" width="100%">
+</p> -->
+
 # 💫 About Me:
 I’m **Vishesh Jha**, a Full-Stack Developer focused on building **scalable systems and AI-driven applications**.
 
@@ -31,7 +35,12 @@ Currently pursuing B.E. in Computer Science at Chitkara University, I work on re
 
 ![](https://github-profile-trophy.vercel.app/?username=visheshjha11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+<h2>Activity graph</h2>
+
+[![Vishesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=visheshjha11&theme=react-dark)](https://github-readme-activity-graph.vercel.app/graph?username=visheshjha11&theme=react-dark)
+
+<h2>⌘ Philosophy</h2>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---

@@ -12,7 +12,8 @@ Currently pursuing B.E. in Computer Science at Chitkara University, I work on re
 - Apply **system design principles** to build scalable and maintainable software  
 - Develop **AI-powered features** using LLMs and agent-based architectures 
 
-**Portfolio:** [visheshjha.me](https://visheshjha.me/)  
+**Portfolio:** [visheshjha.me](https://visheshjha.me/)
+
 
 ## 🌐 Socials:
 [![email](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=visheshjha456@gmail.com)

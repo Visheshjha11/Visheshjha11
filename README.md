@@ -1,7 +1,3 @@
-<!-- <p align="center">
-  <img src="./assets/" alt="Banner" width="100%">
-</p> -->
-
 # 💫 About Me:
 I’m **Vishesh Jha**, a Full-Stack Developer focused on building **scalable systems and AI-driven applications**.
 
@@ -11,6 +7,7 @@ Currently pursuing B.E. in Computer Science at Chitkara University, I work on re
 - Design and build **full-stack applications** end-to-end  
 - Apply **system design principles** to build scalable and maintainable software  
 - Develop **AI-powered features** using LLMs and agent-based architectures 
+
 
 **Portfolio:** [visheshjha.me](https://visheshjha.me/)
 
@@ -35,10 +32,6 @@ Currently pursuing B.E. in Computer Science at Chitkara University, I work on re
 <img src="https://skillicons.dev/icons?i=git" title="Git"/> <img src="https://skillicons.dev/icons?i=github" title="GitHub"/> <img src="https://skillicons.dev/icons?i=linux" title="Linux"/> <img src="https://skillicons.dev/icons?i=bash" title="Bash"/>
 
 ![](https://github-profile-trophy.vercel.app/?username=visheshjha11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<h2>Activity graph</h2>
-
-[![Vishesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=visheshjha11&theme=react-dark)](https://github-readme-activity-graph.vercel.app/graph?username=visheshjha11&theme=react-dark)
 
 <h2>⌘ Philosophy</h2>
 
